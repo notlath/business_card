@@ -1,16 +1,16 @@
-# business_card
+# Business Card App
 
-A new Flutter project.
+A basic Flutter application developed as part of the ITE 013 course in Computer Science. This project serves as an exercise in understanding Flutter framework concepts.
+
+## Overview
+
+This app demonstrates essential Flutter development skills by creating a simple digital business card. It is intended as a learning activity for practicing mobile app development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the project, ensure you have Flutter installed and set up correctly. For beginners, the following resources will be helpful:
 
-A few resources to get you started if this is your first Flutter project:
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook: Useful Samples](https://docs.flutter.dev/cookbook)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For additional guidance, visit the official [Flutter documentation](https://docs.flutter.dev/) for comprehensive tutorials, examples, and API references.
